@@ -1,7 +1,7 @@
 server:
   port: 8083
 some:
-  vale: valor del servidor en produccion
+  vale: valor del servidor en produccion prueba
 management:
    endpoints:
       web:
