@@ -1,7 +1,7 @@
 server:
   port: 8085
 some:
-  value: Servidor en test2
+  value: servidor en test2
 management:
    endpoints:
       web:

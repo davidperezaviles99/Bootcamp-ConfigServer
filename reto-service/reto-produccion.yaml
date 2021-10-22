@@ -1,7 +1,7 @@
 server:
   port: 8083
 some:
-  value: Servidor en produccion
+  value: servidor en produccion
 management:
    endpoints:
       web:

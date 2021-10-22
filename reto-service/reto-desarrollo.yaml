@@ -1,7 +1,7 @@
 server:
   port: 8084
 some:
-  value: Servidor en desarrollo
+  value: servidor en desarrollo
 management:
    endpoints:
       web:

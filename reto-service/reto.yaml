@@ -1,8 +1,8 @@
 server:
    port: 8081
 some:
-   value: Valor normal del servidor
- management:
+   value: valor normal del servidor
+management:
    endpoints:
       web:
          exposure:
